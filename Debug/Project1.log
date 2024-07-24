@@ -1,0 +1,5 @@
+﻿  test1.cpp
+D:\CODE\OpenGL\FINAL\Project1\test1.cpp(115,2): warning C4018: '<': signed/unsigned mismatch
+D:\CODE\OpenGL\FINAL\Project1\test1.cpp(116,3): warning C4018: '<': signed/unsigned mismatch
+D:\CODE\OpenGL\FINAL\Project1\test1.cpp(147,2): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> D:\CODE\OpenGL\FINAL\Debug\Project1.exe

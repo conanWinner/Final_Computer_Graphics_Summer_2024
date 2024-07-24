@@ -1,0 +1,8 @@
+﻿test1.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+test1.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+test1.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+test1.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+test1.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+D:\CODE\OpenGL\Glew and Glut\freeglut\lib\freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\CODE\OpenGL\Glew and Glut\glew-1.11.0\lib\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\CODE\OpenGL\Project1\x64\Debug\Project1.exe : fatal error LNK1120: 5 unresolved externals
